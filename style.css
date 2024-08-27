@@ -1,3 +1,6 @@
-a {
-    text-decoration: none;
+.menu-link {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration: none; 
 }
